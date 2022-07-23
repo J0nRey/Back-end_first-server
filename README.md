@@ -1,5 +1,9 @@
-# Back-end_first-server
+# Back-end_first-server JS11-06/05/2021
 Inicios de un API
+Escuchar el servidor con node
+
+Terminal
+node index.js
 
 
 //Ejercicio 1:
